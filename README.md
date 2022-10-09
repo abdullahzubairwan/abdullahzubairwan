@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdullahzubairwan
-- 👀 I’m interested in venturing Data Science using R Language.
-- 🌱 I’m currently working in Techna Analytics.
+- 👀 My interest is in Data Science using R Language.
+- 🌱 I’m currently working in TESS International.
 - 📫 How to reach me abdullahzubair.wh@gmail.com
 
 This is a personal repository and has no correlation with my professional work whatsoever.
